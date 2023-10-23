@@ -11,5 +11,5 @@ public class UE {
         return myIntitule;
     }
 
-    
+
 }
